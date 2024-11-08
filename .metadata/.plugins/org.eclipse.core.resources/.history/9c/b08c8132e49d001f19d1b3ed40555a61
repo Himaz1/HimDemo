@@ -1,0 +1,16 @@
+package com.qa.javacoding;
+
+import java.util.ArrayList;
+
+public class TestArrayList {
+	public static void main (String[] args)
+	{
+		ArrayList<String> obj = new ArrayList<String>();
+		obj.add("Himaz");
+		obj.add("Car");
+		obj.add("Cricket");
+		obj.add("Sports");
+		System.out.println(obj.get(1));
+	}
+
+}
