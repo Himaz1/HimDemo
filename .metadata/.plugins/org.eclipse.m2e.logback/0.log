@@ -204,3 +204,7 @@
 2024-11-08 19:28:55,144 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\HimPrac\ProOne\gitcheck\src\test\resources
 2024-11-08 19:29:29,870 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\HimPrac\ProOne\gitcheck\src\main\resources
 2024-11-08 19:29:29,873 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\HimPrac\ProOne\gitcheck\src\test\resources
+2024-11-08 19:46:05,796 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-11-08 19:46:08,422 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: gitcheck:gitcheck:0.0.1-SNAPSHOT @ D:\HimPrac\ProOneClone\HimDemo\gitcheck\pom.xml.
+2024-11-08 19:46:08,995 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\HimPrac\ProOneClone\HimDemo\gitcheck\src\main\resources
+2024-11-08 19:46:08,998 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\HimPrac\ProOneClone\HimDemo\gitcheck\src\test\resources
